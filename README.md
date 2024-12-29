@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mourad</h1>
 <h3 align="center">I'm an undergraduate student at faculty of engineering |Cairo university</h3>
 
-- 📫 How to reach me **murad.ibrahim02@eng-st.cu.edu.eg**
+- 📫 How to reach me **mourad.magdy188@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
